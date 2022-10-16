@@ -149,6 +149,31 @@ table {
     border-radius: 10px 10px 0 0;
 }
 
+.card__imagem2 {
+    width: 450px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card__imagem3 {
+    width: 450px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card__imagem4 {
+    width: 450px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card__imagem5 {
+    width: 450px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card__imagem6 {
+    width: 450px;
+    border-radius: 10px 10px 0 0;
+}
+
 .card__tag {
     background-color: #D9D9D940;
     border-radius: 8px;
